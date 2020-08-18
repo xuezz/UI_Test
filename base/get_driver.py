@@ -32,9 +32,10 @@ class GetDriver:
             # 必填
             desired_caps['deviceName'] = 'MuMu'
             # APP包名
-            desired_caps['appPackage'] = "com.hexin.plat.android"
+            # desired_caps['appPackage'] = "com.hexin.plat.android"
             # 启动名
-            desired_caps['appActivity'] = ".Hexin"
+            # desired_caps['appActivity'] = ".Hexin"
+            desired_caps['noReset'] = 'false'
             # 设置driver
             cls._app_driver = appium.webdriver.Remote("http://127.0.0.1:4723/wd/hub", desired_caps)
             # 返回cls.__app_driver

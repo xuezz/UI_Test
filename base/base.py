@@ -20,7 +20,7 @@ class Base:
     def __init__(self, driver: webdriver):
         self._driver = driver
         self._log = Logger().get_logger()
-        self._wait = WebDriverWait(self._driver, 30, 0.5)
+        self._wait = WebDriverWait(self._driver, 10, 0.5)
 
     def open(self, url):
         self._driver.get(url)
@@ -51,7 +51,7 @@ class Base:
             return element
         except TimeoutException as e:
             print(e)
-            self._log.error('wait_visible_element 超时')
+            self._log.error('wait_visible_element 超时'.format(locator))
 
     def wait_clickable_element(self, locator):
         """
@@ -64,7 +64,7 @@ class Base:
             return element
         except TimeoutException as e:
             print(e)
-            self._log.error('wait_clickable_element 超时')
+            self._log.error('wait_clickable_element 超时:'.format(locator))
 
     def input_text(self, locator, value):
         """

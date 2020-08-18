@@ -40,3 +40,6 @@ class NetEasyMail(WebBase):
     def is_login(self):
         sleep(3)
         return self.is_element_exist(self.email_loc)
+
+    def send_mail(self):
+        pass

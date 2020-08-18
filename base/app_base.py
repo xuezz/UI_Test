@@ -11,9 +11,10 @@ class AppBase(Base):
     def activity(self, page_name, active_name):
         """
         启动Activity
-        :param page_name:
+        :param page_name:package包名
         :param active_name:
         """
+        self._log.info("启动Activity:".format(page_name, active_name))
         self._driver.start_activity(page_name, active_name)
 
     def current_activity(self):

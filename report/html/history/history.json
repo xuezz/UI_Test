@@ -1,0 +1,22 @@
+{
+  "d21c8f15c2f160f7ab58f648d76627c9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "777a88463ab818db",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: 'appPackage' option is required",
+      "time" : {
+        "start" : 1597713060598,
+        "stop" : 1597713065494,
+        "duration" : 4896
+      }
+    } ]
+  }
+}
