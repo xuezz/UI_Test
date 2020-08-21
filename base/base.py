@@ -45,7 +45,6 @@ class Base:
             self._log.error('元素不存在:{}'.format(locator))
             return False
 
-
     def wait_visible_element(self, locator):
         """
         等待元素可见
@@ -80,7 +79,6 @@ class Base:
         """
         e = self.wait_visible_element(locator)
         e.clear()
-        print("输入文本:{}".format(value))
         self._log.info("输入文本:{}".format(value))
         e.send_keys(value)
 
