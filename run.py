@@ -9,4 +9,4 @@ import pytest
 
 if __name__ == '__main__':
     pytest.main()
-    os.system('allure generate report -c -o report/allure-report')
+    # os.system('allure generate report -c -o report/allure-report')
