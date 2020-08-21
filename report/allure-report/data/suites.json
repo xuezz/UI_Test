@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case.test_web",
+    "children" : [ {
+      "name" : "test_neteasymail",
+      "children" : [ {
+        "name" : "TestNetEasyMailLogin",
+        "children" : [ {
+          "name" : "test_email_login[xuezz1997@163.com-11250520.-xuezz测试mail-测试-157592378@qq.com]",
+          "uid" : "59ff8423d1866ab5",
+          "parentUid" : "cdef39d3d15ea2e969e9d59574359e93",
+          "status" : "passed",
+          "time" : {
+            "start" : 1597994572841,
+            "stop" : 1597994579429,
+            "duration" : 6588
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'测试'", "'11250520.'", "'157592378@qq.com'", "'xuezz测试mail'", "'xuezz1997@163.com'" ]
+        } ],
+        "uid" : "cdef39d3d15ea2e969e9d59574359e93"
+      } ],
+      "uid" : "7ffc941d493d8533e16180a2653dfded"
+    } ],
+    "uid" : "29a9cbd0de0d434fea0b968cd6cd420b"
+  } ]
+}

@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Aug 21 15:22:52 CST 2020","Fri Aug 21 15:22:59 CST 2020","6588","test_case.test_web","test_neteasymail","TestNetEasyMailLogin","","","test_email_login[xuezz1997@163.com-11250520.-xuezz测试mail-测试-157592378@qq.com]",""

@@ -26,6 +26,10 @@ class Base:
         self._driver.get(url)
         self._driver.implicitly_wait(3)
 
+    def implicitly_wait(self, time):
+        self._log.info('隐式等待:{}秒'.format(time))
+        self._driver.implicitly_wait(time)
+
     def is_element_exist(self, locator):
         """
         判断元素是否存在
@@ -34,11 +38,13 @@ class Base:
         """
         try:
             self._wait.until(ec.visibility_of_element_located(locator))
+            self._log.info('元素存在:{}'.format(locator))
+            return True
         except TimeoutException as e:
             print(e)
-            self._log.error('元素不存在:'.format(locator))
+            self._log.error('元素不存在:{}'.format(locator))
             return False
-        return True
+
 
     def wait_visible_element(self, locator):
         """
@@ -51,7 +57,7 @@ class Base:
             return element
         except TimeoutException as e:
             print(e)
-            self._log.error('wait_visible_element 超时'.format(locator))
+            self._log.error('wait_visible_element 超时{}'.format(locator))
 
     def wait_clickable_element(self, locator):
         """
@@ -64,7 +70,7 @@ class Base:
             return element
         except TimeoutException as e:
             print(e)
-            self._log.error('wait_clickable_element 超时:'.format(locator))
+            self._log.error('wait_clickable_element 超时:{}'.format(locator))
 
     def input_text(self, locator, value):
         """

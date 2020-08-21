@@ -35,7 +35,7 @@ def read_excel(excel_path, sheet_name):
 
 def read_yaml(yaml_path):
     arr = []
-    with open(yaml_path, 'r') as f:
+    with open(yaml_path, 'r', encoding='utf-8') as f:
         data = yaml.safe_load(f).values()
         for row in data:
             arr.append(tuple(row.values()))

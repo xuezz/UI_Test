@@ -1,2 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Tue Aug 18 09:11:00 CST 2020","Tue Aug 18 09:11:05 CST 2020","4896","test_case.test_app","test_email","TestAppMail","","","test_sendmail",""

@@ -31,12 +31,16 @@ class WebBase(Base):
             # self._driver.switch_to.frame(self._driver.find_element_by_xpath(locator))
             # self._wait.until(ec.frame_to_be_available_and_switch_to_it(locator))
             # self._driver.switch_to.frame(locator)
-            iframe = self._driver.find_element_by_xpath(locator)
+            iframe = self.wait_visible_element(locator)
             self._driver.switch_to.frame(iframe)
 
         except TimeoutException as e:
             self._log.error('切换iframe超时{}'.format(e))
             self.save_img("切换frame失败")
+
+    def back_to_windows(self):
+        self._log.info('返回主文档')
+        self._driver.switch_to.default_content()
 
     def execute_js(self, js):
         """

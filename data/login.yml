@@ -1,12 +1,12 @@
 user001:
   uid: 'xuezz1997@163.com'
   pw: '11250520.'
-#  subject: '测试mail'
+  subject: 'xuezz测试mail'
+  content: '测试'
+  receiver: '157592378@qq.com'
+#user002:
+#  uid: 'uoykiki@163.com'
+#  pw: '11250520.'
+#  subject: 'uoykiki测试mail'
 #  content: '测试'
-#  receiver: 'uoykiki@163.com'
-user002:
-  uid: 'uoykiki@163.com'
-  pw: '11250520.'
-#  subject: '测试mail'
-#  content: '测试'
-#  receiver: 'xuezz1997@163.com'
+#  receiver: '157592378@qq.com'

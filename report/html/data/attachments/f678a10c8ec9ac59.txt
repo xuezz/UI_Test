@@ -1,7 +1,0 @@
-INFO     root:app_base.py:17 启动Activity:
-INFO     root:base.py:78 输入文本:xuezz1997@163.com
-INFO     root:base.py:78 输入文本:11250520.
-INFO     root:base.py:82 点击元素:('id', 'com.netease.mail:id/register_button_next')
-INFO     root:base.py:82 点击元素:('id', 'com.netease.mail:id/button_next')
-INFO     root:base.py:82 点击元素:('id', 'com.netease.mail:id/skip')
-ERROR    root:base.py:67 wait_clickable_element 超时

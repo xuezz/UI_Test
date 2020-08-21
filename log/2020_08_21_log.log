@@ -1,0 +1,586 @@
+2020-08-21 08:27:29,829 INFO [base.py(input_text:78)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:27:29,829 INFO [base.py(input_text:78)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:27:29,931 INFO [base.py(input_text:78)] - 输入文本:11250520.
+2020-08-21 08:27:29,931 INFO [base.py(input_text:78)] - 输入文本:11250520.
+2020-08-21 08:27:29,978 INFO [base.py(click:82)] - 点击元素:('id', 'dologin')
+2020-08-21 08:27:29,978 INFO [base.py(click:82)] - 点击元素:('id', 'dologin')
+2020-08-21 08:27:38,081 INFO [base.py(input_text:78)] - 输入文本:uoykiki@163.com
+2020-08-21 08:27:38,081 INFO [base.py(input_text:78)] - 输入文本:uoykiki@163.com
+2020-08-21 08:27:38,081 INFO [base.py(input_text:78)] - 输入文本:uoykiki@163.com
+2020-08-21 08:27:38,081 INFO [base.py(input_text:78)] - 输入文本:uoykiki@163.com
+2020-08-21 08:27:38,180 INFO [base.py(input_text:78)] - 输入文本:11250520.
+2020-08-21 08:27:38,180 INFO [base.py(input_text:78)] - 输入文本:11250520.
+2020-08-21 08:27:38,180 INFO [base.py(input_text:78)] - 输入文本:11250520.
+2020-08-21 08:27:38,180 INFO [base.py(input_text:78)] - 输入文本:11250520.
+2020-08-21 08:27:38,223 INFO [base.py(click:82)] - 点击元素:('id', 'dologin')
+2020-08-21 08:27:38,223 INFO [base.py(click:82)] - 点击元素:('id', 'dologin')
+2020-08-21 08:27:38,223 INFO [base.py(click:82)] - 点击元素:('id', 'dologin')
+2020-08-21 08:27:38,223 INFO [base.py(click:82)] - 点击元素:('id', 'dologin')
+2020-08-21 08:36:14,671 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:36:14,671 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:36:14,773 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:36:14,773 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:36:14,818 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:36:14,818 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:36:22,848 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:36:22,848 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:36:22,848 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:36:22,848 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:36:22,949 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:36:22,949 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:36:22,949 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:36:22,949 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:36:22,999 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:36:22,999 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:36:22,999 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:36:22,999 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:37:33,624 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:37:33,624 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:37:33,724 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:37:33,724 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:37:33,768 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:37:33,768 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:37:33,865 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:37:33,865 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:37:41,922 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:37:41,922 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:37:41,922 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:37:41,922 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:37:42,025 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:37:42,025 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:37:42,025 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:37:42,025 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:37:42,072 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:37:42,072 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:37:42,072 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:37:42,072 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:37:42,179 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:37:42,179 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:37:42,179 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:37:42,179 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:39:27,521 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:39:27,521 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:39:27,617 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:39:27,617 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:39:27,667 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:39:27,667 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:39:27,769 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:39:27,769 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:39:37,836 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:39:37,836 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:39:37,836 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:39:37,836 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:39:37,942 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:39:37,942 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:39:37,942 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:39:37,942 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:39:38,005 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:39:38,005 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:39:38,005 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:39:38,005 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:39:38,117 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:39:38,117 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:39:38,117 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:39:38,117 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:41:13,560 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:41:13,560 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:41:13,660 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:41:13,660 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:41:13,710 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:41:13,710 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:41:13,812 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:41:13,812 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:41:24,461 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:41:24,461 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:41:24,461 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:41:24,461 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:41:24,556 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:41:24,556 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:41:24,556 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:41:24,556 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:41:24,605 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:41:24,605 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:41:24,605 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:41:24,605 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:41:24,709 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:41:24,709 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:41:24,709 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:41:24,709 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:42:14,344 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:42:14,344 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:42:14,437 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:42:14,437 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:42:14,486 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:42:14,486 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:42:14,586 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:42:14,586 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:42:17,588 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:42:17,588 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:42:24,583 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:42:24,583 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:42:24,583 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:42:24,583 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:42:24,685 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:42:24,685 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:42:24,685 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:42:24,685 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:42:24,733 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:42:24,733 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:42:24,733 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:42:24,733 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:42:24,841 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:42:24,841 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:42:24,841 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:42:24,841 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:42:27,843 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:42:27,843 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:42:27,843 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:42:27,843 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:43:26,017 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:43:26,017 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:43:26,124 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:43:26,124 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:43:26,171 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:43:26,171 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:43:26,273 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:43:26,273 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:43:29,275 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:43:29,275 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:43:29,305 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 08:43:29,305 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 08:43:29,539 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 08:43:29,539 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 08:43:29,761 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 08:43:29,761 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 08:43:40,519 ERROR [base.py(wait_visible_element:58)] - wait_visible_element 超时
+2020-08-21 08:43:40,519 ERROR [base.py(wait_visible_element:58)] - wait_visible_element 超时
+2020-08-21 08:43:47,786 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:43:47,786 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:43:47,786 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:43:47,786 INFO [base.py(input_text:82)] - 输入文本:uoykiki@163.com
+2020-08-21 08:43:47,880 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:43:47,880 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:43:47,880 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:43:47,880 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:43:47,922 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:43:47,922 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:43:47,922 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:43:47,922 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:43:48,029 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:43:48,029 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:43:48,029 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:43:48,029 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:43:51,031 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:43:51,031 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:43:51,031 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:43:51,031 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:43:58,862 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 08:43:58,862 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 08:43:58,862 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 08:43:58,862 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 08:43:59,127 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 08:43:59,127 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 08:43:59,127 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 08:43:59,127 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 08:43:59,271 INFO [base.py(input_text:82)] - 输入文本:uoykiki测试mail
+2020-08-21 08:43:59,271 INFO [base.py(input_text:82)] - 输入文本:uoykiki测试mail
+2020-08-21 08:43:59,271 INFO [base.py(input_text:82)] - 输入文本:uoykiki测试mail
+2020-08-21 08:43:59,271 INFO [base.py(input_text:82)] - 输入文本:uoykiki测试mail
+2020-08-21 08:44:09,920 ERROR [base.py(wait_visible_element:58)] - wait_visible_element 超时
+2020-08-21 08:44:09,920 ERROR [base.py(wait_visible_element:58)] - wait_visible_element 超时
+2020-08-21 08:44:09,920 ERROR [base.py(wait_visible_element:58)] - wait_visible_element 超时
+2020-08-21 08:44:09,920 ERROR [base.py(wait_visible_element:58)] - wait_visible_element 超时
+2020-08-21 08:47:41,413 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:47:41,413 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:47:41,506 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:47:41,506 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:47:41,551 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:47:41,551 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:47:41,652 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:47:41,652 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:47:44,654 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:47:44,654 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:47:44,679 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 08:47:44,679 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 08:47:44,952 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 08:47:44,952 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 08:47:45,130 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 08:47:45,130 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 08:47:55,753 ERROR [base.py(wait_visible_element:58)] - wait_visible_element 超时
+2020-08-21 08:47:55,753 ERROR [base.py(wait_visible_element:58)] - wait_visible_element 超时
+2020-08-21 08:49:43,710 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:49:43,710 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:49:43,810 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:49:43,810 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:49:43,856 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:49:43,856 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:49:43,956 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:49:43,956 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:49:46,957 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:49:46,957 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:49:46,988 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 08:49:46,988 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 08:49:47,204 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 08:49:47,204 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 08:49:47,437 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 08:49:47,437 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 08:49:58,154 ERROR [base.py(wait_visible_element:58)] - wait_visible_element 超时('id', 'APP-editor-iframe')
+2020-08-21 08:49:58,154 ERROR [base.py(wait_visible_element:58)] - wait_visible_element 超时('id', 'APP-editor-iframe')
+2020-08-21 08:51:05,255 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:51:05,255 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 08:51:05,356 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:51:05,356 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 08:51:05,408 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:51:05,408 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 08:51:05,519 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:51:05,519 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 08:51:08,520 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:51:08,520 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:51:08,548 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 08:51:08,548 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 08:51:08,800 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 08:51:08,800 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 08:51:08,972 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 08:51:08,972 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 08:51:09,138 INFO [base.py(input_text:82)] - 输入文本:
+2020-08-21 08:51:09,138 INFO [base.py(input_text:82)] - 输入文本:
+2020-08-21 08:51:09,251 INFO [base.py(input_text:82)] - 输入文本:测试
+2020-08-21 08:51:09,251 INFO [base.py(input_text:82)] - 输入文本:测试
+2020-08-21 08:51:09,292 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:51:09,292 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 08:51:19,651 ERROR [base.py(is_element_exist:43)] - 元素不存在:
+2020-08-21 08:51:19,651 ERROR [base.py(is_element_exist:43)] - 元素不存在:
+2020-08-21 09:15:35,357 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 09:15:35,357 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 09:15:35,457 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 09:15:35,457 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 09:15:35,508 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 09:15:35,508 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 09:15:35,613 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 09:15:35,613 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 09:15:38,615 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 09:15:38,615 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 09:15:38,645 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 09:15:38,645 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 09:15:38,924 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 09:15:38,924 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 09:15:39,082 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 09:15:39,082 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 09:15:39,371 INFO [base.py(input_text:82)] - 输入文本:
+2020-08-21 09:15:39,371 INFO [base.py(input_text:82)] - 输入文本:
+2020-08-21 09:15:39,682 INFO [base.py(input_text:82)] - 输入文本:测试
+2020-08-21 09:15:39,682 INFO [base.py(input_text:82)] - 输入文本:测试
+2020-08-21 09:15:39,719 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 09:15:39,719 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 09:15:50,230 ERROR [base.py(is_element_exist:43)] - 元素不存在:
+2020-08-21 09:15:50,230 ERROR [base.py(is_element_exist:43)] - 元素不存在:
+2020-08-21 09:22:57,665 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 09:22:57,665 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 09:22:57,774 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 09:22:57,774 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 09:22:57,826 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 09:22:57,826 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 09:22:57,941 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 09:22:57,941 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 09:23:00,942 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 09:23:00,942 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 09:23:10,774 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 09:23:10,774 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 09:23:11,038 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 09:23:11,038 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 09:23:11,207 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 09:23:11,207 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 09:23:11,734 INFO [base.py(input_text:82)] - 输入文本:
+2020-08-21 09:23:11,734 INFO [base.py(input_text:82)] - 输入文本:
+2020-08-21 09:23:11,819 INFO [base.py(input_text:82)] - 输入文本:测试
+2020-08-21 09:23:11,819 INFO [base.py(input_text:82)] - 输入文本:测试
+2020-08-21 09:23:11,858 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 09:23:11,858 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 09:23:11,865 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_button_16_446"]')
+2020-08-21 09:23:11,865 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_button_16_446"]')
+2020-08-21 09:23:22,465 ERROR [base.py(wait_clickable_element:71)] - wait_clickable_element 超时:('xpath', '//*[@id="_mail_button_16_446"]')
+2020-08-21 09:23:22,465 ERROR [base.py(wait_clickable_element:71)] - wait_clickable_element 超时:('xpath', '//*[@id="_mail_button_16_446"]')
+2020-08-21 10:07:21,478 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:07:21,478 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:07:21,578 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 10:07:21,578 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 10:07:21,629 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 10:07:21,629 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 10:07:21,732 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:07:21,732 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:07:24,735 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:07:24,735 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:07:24,762 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:07:24,762 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:07:25,034 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 10:07:25,034 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 10:07:25,189 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 10:07:25,189 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 10:07:25,332 INFO [base.py(input_text:82)] - 输入文本:
+2020-08-21 10:07:25,332 INFO [base.py(input_text:82)] - 输入文本:
+2020-08-21 10:07:25,521 INFO [base.py(input_text:82)] - 输入文本:测试
+2020-08-21 10:07:25,521 INFO [base.py(input_text:82)] - 输入文本:测试
+2020-08-21 10:07:25,604 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:07:25,604 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:07:25,609 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[starts-with(@id,"_mail_button")]/span[2]')
+2020-08-21 10:07:25,609 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[starts-with(@id,"_mail_button")]/span[2]')
+2020-08-21 10:07:35,960 ERROR [base.py(wait_clickable_element:71)] - wait_clickable_element 超时:('xpath', '//*[starts-with(@id,"_mail_button")]/span[2]')
+2020-08-21 10:07:35,960 ERROR [base.py(wait_clickable_element:71)] - wait_clickable_element 超时:('xpath', '//*[starts-with(@id,"_mail_button")]/span[2]')
+2020-08-21 10:13:48,227 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:13:48,227 INFO [base.py(input_text:82)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:13:48,328 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 10:13:48,328 INFO [base.py(input_text:82)] - 输入文本:11250520.
+2020-08-21 10:13:48,377 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 10:13:48,377 INFO [base.py(click:86)] - 点击元素:('id', 'dologin')
+2020-08-21 10:13:48,485 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:13:48,485 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:13:51,487 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:13:51,487 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:13:51,907 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:13:51,907 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:13:52,190 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 10:13:52,190 INFO [base.py(input_text:82)] - 输入文本:157592378@qq.com
+2020-08-21 10:13:52,360 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 10:13:52,360 INFO [base.py(input_text:82)] - 输入文本:xuezz测试mail
+2020-08-21 10:13:52,780 INFO [base.py(input_text:82)] - 输入文本:
+2020-08-21 10:13:52,780 INFO [base.py(input_text:82)] - 输入文本:
+2020-08-21 10:13:52,999 INFO [base.py(input_text:82)] - 输入文本:测试
+2020-08-21 10:13:52,999 INFO [base.py(input_text:82)] - 输入文本:测试
+2020-08-21 10:13:53,040 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:13:53,040 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:13:53,043 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 10:13:53,043 INFO [base.py(click:86)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 10:19:06,963 INFO [base.py(input_text:83)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:19:06,963 INFO [base.py(input_text:83)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:19:07,062 INFO [base.py(input_text:83)] - 输入文本:11250520.
+2020-08-21 10:19:07,062 INFO [base.py(input_text:83)] - 输入文本:11250520.
+2020-08-21 10:19:07,112 INFO [base.py(click:87)] - 点击元素:('id', 'dologin')
+2020-08-21 10:19:07,112 INFO [base.py(click:87)] - 点击元素:('id', 'dologin')
+2020-08-21 10:19:07,219 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:19:07,219 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:19:10,222 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:19:10,222 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:19:10,249 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 10:19:10,249 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 10:19:10,249 INFO [base.py(click:87)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:19:10,249 INFO [base.py(click:87)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:19:10,522 INFO [base.py(input_text:83)] - 输入文本:157592378@qq.com
+2020-08-21 10:19:10,522 INFO [base.py(input_text:83)] - 输入文本:157592378@qq.com
+2020-08-21 10:19:10,688 INFO [base.py(input_text:83)] - 输入文本:xuezz测试mail
+2020-08-21 10:19:10,688 INFO [base.py(input_text:83)] - 输入文本:xuezz测试mail
+2020-08-21 10:19:10,963 INFO [base.py(input_text:83)] - 输入文本:
+2020-08-21 10:19:10,963 INFO [base.py(input_text:83)] - 输入文本:
+2020-08-21 10:19:11,242 INFO [base.py(input_text:83)] - 输入文本:测试
+2020-08-21 10:19:11,242 INFO [base.py(input_text:83)] - 输入文本:测试
+2020-08-21 10:19:11,277 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:19:11,277 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:19:11,283 INFO [base.py(click:87)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 10:19:11,283 INFO [base.py(click:87)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 10:19:11,369 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:19:11,369 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:19:14,393 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 10:19:14,393 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 10:22:12,173 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:22:12,173 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:22:12,277 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 10:22:12,277 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 10:22:12,328 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 10:22:12,328 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 10:22:12,433 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:22:12,433 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:22:15,435 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:22:15,435 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:22:15,465 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 10:22:15,465 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 10:22:15,465 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:22:15,465 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:22:15,716 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 10:22:15,716 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 10:22:15,858 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 10:22:15,858 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 10:22:16,188 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 10:22:16,188 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 10:22:16,571 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 10:22:16,571 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 10:22:16,628 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:22:16,628 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:22:16,633 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 10:22:16,633 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 10:22:16,719 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:22:16,719 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:22:19,745 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 10:22:19,745 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 10:23:48,314 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:23:48,314 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:23:48,414 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 10:23:48,414 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 10:23:48,462 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 10:23:48,462 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 10:23:48,569 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:23:48,569 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:23:51,570 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:23:51,570 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:23:51,598 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 10:23:51,598 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 10:23:51,598 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:23:51,598 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:23:51,855 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 10:23:51,855 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 10:23:52,017 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 10:23:52,017 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 10:23:52,523 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 10:23:52,523 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 10:23:52,631 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 10:23:52,631 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 10:23:52,669 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:23:52,669 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:23:52,677 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 10:23:52,677 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 10:23:52,802 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:23:52,802 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:24:15,289 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:24:15,289 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:24:15,387 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 10:24:15,387 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 10:24:15,438 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 10:24:15,438 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 10:24:15,546 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:24:15,546 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:24:18,548 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:24:18,548 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:24:18,819 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 10:24:18,819 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 10:24:19,016 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 10:24:19,016 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 10:24:19,283 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 10:24:19,283 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 10:24:19,624 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 10:24:19,624 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 10:24:19,658 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:24:19,658 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:24:19,662 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 10:24:19,662 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 10:24:19,757 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:24:19,757 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:24:22,781 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 10:24:22,781 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 10:26:02,089 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:26:02,089 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 10:26:02,188 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 10:26:02,188 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 10:26:02,237 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 10:26:02,237 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 10:26:02,346 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:26:02,346 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:26:05,349 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:26:05,349 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:26:05,375 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 10:26:05,375 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 10:26:05,375 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:26:05,375 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 10:26:05,650 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 10:26:05,650 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 10:26:05,804 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 10:26:05,804 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 10:26:06,100 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 10:26:06,100 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 10:26:06,482 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 10:26:06,482 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 10:26:06,544 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:26:06,544 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 10:26:06,547 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 10:26:06,547 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 10:26:06,637 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:26:06,637 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 10:26:09,661 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 10:26:09,661 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 15:21:41,847 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 15:21:41,847 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 15:21:41,955 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 15:21:41,955 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 15:21:42,003 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 15:21:42,003 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 15:21:42,114 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 15:21:42,114 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 15:21:42,115 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 15:21:42,115 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 15:21:44,391 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 15:21:44,391 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 15:21:44,394 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 15:21:44,394 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 15:21:44,660 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 15:21:44,660 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 15:21:44,844 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 15:21:44,844 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 15:21:44,985 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 15:21:44,985 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 15:21:45,288 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 15:21:45,288 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 15:21:45,379 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 15:21:45,379 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 15:21:45,384 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 15:21:45,384 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 15:21:45,754 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 15:21:45,754 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 15:21:45,950 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 15:21:45,950 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 15:22:23,347 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 15:22:23,347 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 15:22:23,446 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 15:22:23,446 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 15:22:23,493 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 15:22:23,493 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 15:22:23,597 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 15:22:23,597 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 15:22:23,598 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 15:22:23,598 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 15:22:26,030 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 15:22:26,030 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 15:22:26,033 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 15:22:26,033 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 15:22:26,309 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 15:22:26,309 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 15:22:26,480 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 15:22:26,480 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 15:22:26,908 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 15:22:26,908 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 15:22:27,177 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 15:22:27,177 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 15:22:27,222 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 15:22:27,222 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 15:22:27,229 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 15:22:27,229 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 15:22:27,321 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 15:22:27,321 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 15:22:27,462 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 15:22:27,462 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 15:22:52,908 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 15:22:52,908 INFO [base.py(input_text:84)] - 输入文本:xuezz1997@163.com
+2020-08-21 15:22:53,005 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 15:22:53,005 INFO [base.py(input_text:84)] - 输入文本:11250520.
+2020-08-21 15:22:53,048 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 15:22:53,048 INFO [base.py(click:88)] - 点击元素:('id', 'dologin')
+2020-08-21 15:22:53,153 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 15:22:53,153 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 15:22:53,155 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 15:22:53,155 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 15:22:58,437 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 15:22:58,437 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', '//*[@id="_mail_component_145_145"]/span[2]')
+2020-08-21 15:22:58,439 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 15:22:58,439 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@id="_mail_component_137_137"]')
+2020-08-21 15:22:58,657 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 15:22:58,657 INFO [base.py(input_text:84)] - 输入文本:157592378@qq.com
+2020-08-21 15:22:58,855 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 15:22:58,855 INFO [base.py(input_text:84)] - 输入文本:xuezz测试mail
+2020-08-21 15:22:59,050 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 15:22:59,050 INFO [base.py(input_text:84)] - 输入文本:
+2020-08-21 15:22:59,128 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 15:22:59,128 INFO [base.py(input_text:84)] - 输入文本:测试
+2020-08-21 15:22:59,170 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 15:22:59,170 INFO [web_base.py(back_to_windows:42)] - 返回主文档
+2020-08-21 15:22:59,174 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 15:22:59,174 INFO [base.py(click:88)] - 点击元素:('xpath', '//*[@class="jp0"]/div[1]')
+2020-08-21 15:22:59,263 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 15:22:59,263 INFO [base.py(implicitly_wait:30)] - 隐式等待:3秒
+2020-08-21 15:22:59,428 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")
+2020-08-21 15:22:59,428 INFO [base.py(is_element_exist:41)] - 元素存在:('xpath', "//h1[text()='发送成功']")

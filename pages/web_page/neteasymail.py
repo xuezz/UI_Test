@@ -11,7 +11,7 @@ from base.web_base import WebBase
 
 
 class NetEasyMail(WebBase):
-    frame = "//iframe[starts-with(@id, 'x-URS-iframe')]"
+    frame = By.XPATH, "//iframe[starts-with(@id, 'x-URS-iframe')]"
     account_loc = By.NAME, 'email'
     password_loc = By.NAME, 'password'
     login_btn = By.ID, 'dologin'
@@ -20,7 +20,6 @@ class NetEasyMail(WebBase):
 
     def open_url(self):
         self.open(self.url)
-        sleep(3)
         self.switch_into_frame(self.frame)
 
     def input_id(self, account):
@@ -38,8 +37,5 @@ class NetEasyMail(WebBase):
         self.click_login()
 
     def is_login(self):
-        sleep(3)
+        self.back_to_windows()
         return self.is_element_exist(self.email_loc)
-
-    def send_mail(self):
-        pass
